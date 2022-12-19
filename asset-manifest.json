@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/my-portfolio/static/css/main.52b8fb92.css",
+    "main.js": "/my-portfolio/static/js/main.fc808b1a.js",
+    "static/media/heroImage.png": "/my-portfolio/static/media/heroImage.b644a089035c06671bba.png",
+    "static/media/aceinfrasolutions.jpg": "/my-portfolio/static/media/aceinfrasolutions.ff22899a0efeb960ee24.jpg",
+    "static/media/bookingapp.jpg": "/my-portfolio/static/media/bookingapp.012bc9ef0ed585879062.jpg",
+    "static/media/reactmeals.jpg": "/my-portfolio/static/media/reactmeals.e79d421c8cb1ba249979.jpg",
+    "static/media/nextjsMeetups.jpg": "/my-portfolio/static/media/nextjsMeetups.f383d9094d871b0dc5b1.jpg",
+    "static/media/yelpcamp.jpg": "/my-portfolio/static/media/yelpcamp.bc785c46c8ed37f0435d.jpg",
+    "static/media/react.png": "/my-portfolio/static/media/react.0cf951a69d8e58f83f9d.png",
+    "static/media/weatherApp.jpg": "/my-portfolio/static/media/weatherApp.57aaa80a1925953d914f.jpg",
+    "static/media/nodejs.png": "/my-portfolio/static/media/nodejs.952a9ea986dcfa5229ad.png",
+    "static/media/nextjs.png": "/my-portfolio/static/media/nextjs.48ddc8121a0fcb543d64.png",
+    "static/media/github.png": "/my-portfolio/static/media/github.3b9e32903aa89111875d.png",
+    "static/media/html.png": "/my-portfolio/static/media/html.2ba4fabc69a89a8f71e6.png",
+    "static/media/tailwind.png": "/my-portfolio/static/media/tailwind.e47ac876b8d4d0bba47a.png",
+    "static/media/css.png": "/my-portfolio/static/media/css.69a82c2d9e45c933a9cb.png",
+    "static/media/mongodb.png": "/my-portfolio/static/media/mongodb.f19c9f5f482d73c8b03d.png",
+    "static/media/javascript.png": "/my-portfolio/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
+    "index.html": "/my-portfolio/index.html",
+    "main.52b8fb92.css.map": "/my-portfolio/static/css/main.52b8fb92.css.map",
+    "main.fc808b1a.js.map": "/my-portfolio/static/js/main.fc808b1a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.52b8fb92.css",
+    "static/js/main.fc808b1a.js"
+  ]
+}
