@@ -4,7 +4,7 @@ import nextjsMeetups from "../assets/portfolio/nextjsMeetups.jpg";
 import reactmeals from "../assets/portfolio/reactmeals.jpg";
 import bookingapp from "../assets/portfolio/bookingapp.jpg";
 import yelpcamp from "../assets/portfolio/yelpcamp.jpg";
-import reactWeather from "../assets/portfolio/reactWeather.jpg";
+import weatherApp from "../assets/portfolio/weatherApp.jpg";
 
 const Portfolio = () => {
     const portfolios = [
@@ -13,42 +13,42 @@ const Portfolio = () => {
             src: aceinfrasolutions,
             name: "Ace Infra Solutions",
             demo: "https://www.aceinfrasolutions.xyz/",
-            code: "https://github.com/dkiitr/ace-infrasolutions",
+            code: "https://github.com/dkiitr/ace-infrasolutions/",
         },
         {
             id: 2,
             src: nextjsMeetups,
             name: "NextJS Meetups App",
             demo: "https://nextjs-meetups-app-omega.vercel.app/",
-            code: "https://github.com/dkiitr/nextjs-meetups-app",
+            code: "https://github.com/dkiitr/nextjs-meetups-app/",
         },
         {
             id: 3,
             src: reactmeals,
-            name: "ReactMeals",
+            name: "MealsApp",
             demo: "https://react-meals-dkiitr.netlify.app/",
-            code: "https://github.com/dkiitr/react-meals-app",
+            code: "https://github.com/dkiitr/react-meals-app/",
         },
         {
             id: 4,
             src: bookingapp,
-            name: "React BookingApp",
+            name: "BookingApp",
             demo: "http://react-booking-app-sepia.vercel.app/",
-            code: "https://github.com/dkiitr/react-booking-app",
+            code: "https://github.com/dkiitr/react-booking-app/",
         },
         {
             id: 5,
             src: yelpcamp,
             name: "YelpCamp",
             demo: "https://immense-hamlet-58806.herokuapp.com/",
-            code: "https://github.com/dkiitr/camping-info",
+            code: "https://github.com/dkiitr/camping-info/",
         },
         {
             id: 6,
-            src: reactWeather,
-            name: "React Weather",
-            demo: "",
-            code: "https://github.com/dkiitr/react-weather-app",
+            src: weatherApp,
+            name: "Weather App",
+            demo: "https://react-weather-app-3aiu.vercel.app/", 
+            code: "https://github.com/dkiitr/react-weather-app/",
         },
     ];
     return (

@@ -13,10 +13,10 @@ const About = () => {
                     </p>
                 </div>
                 <p className="text-xl mt-20">
-                    I'm a full-stack developer located in India. I love to
+                    I am a full-stack developer located in India. I love to
                     create simple yet beautiful websites with great user
                     experience. I mainly work with MERN stack in my projects. I
-                    Like trying new things and building great projects.
+                    like trying new things and building great projects.
                 </p>
                 <br />
                 <p className="text-xl">
@@ -27,11 +27,10 @@ const About = () => {
                 </p>
                 <br />
                 <p className="text-xl">
-                    I believe everything is an Art when you put your
-                    consciousness in it. I'm an independent freelancer and read
-                    books. I love trying new things in life. I like to travel
-                    and watch series also. You can connect with me via social
-                    links.
+                    I believe everything is an art when you put your
+                    consciousness in it. I am an independent freelancer and read
+                    books. I love to travel and watch series also. You can
+                    connect with me via social links.
                 </p>
             </div>
         </div>
